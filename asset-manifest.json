@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wordy_/static/css/main.d2ce2377.chunk.css",
+    "main.js": "/Wordy_/static/js/main.1c20825f.chunk.js",
+    "main.js.map": "/Wordy_/static/js/main.1c20825f.chunk.js.map",
+    "runtime-main.js": "/Wordy_/static/js/runtime-main.84eaa588.js",
+    "runtime-main.js.map": "/Wordy_/static/js/runtime-main.84eaa588.js.map",
+    "static/js/2.0cb11d17.chunk.js": "/Wordy_/static/js/2.0cb11d17.chunk.js",
+    "static/js/2.0cb11d17.chunk.js.map": "/Wordy_/static/js/2.0cb11d17.chunk.js.map",
+    "static/js/3.b9dcdcd0.chunk.js": "/Wordy_/static/js/3.b9dcdcd0.chunk.js",
+    "static/js/3.b9dcdcd0.chunk.js.map": "/Wordy_/static/js/3.b9dcdcd0.chunk.js.map",
+    "index.html": "/Wordy_/index.html",
+    "static/css/main.d2ce2377.chunk.css.map": "/Wordy_/static/css/main.d2ce2377.chunk.css.map",
+    "static/js/2.0cb11d17.chunk.js.LICENSE.txt": "/Wordy_/static/js/2.0cb11d17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84eaa588.js",
+    "static/js/2.0cb11d17.chunk.js",
+    "static/css/main.d2ce2377.chunk.css",
+    "static/js/main.1c20825f.chunk.js"
+  ]
+}
